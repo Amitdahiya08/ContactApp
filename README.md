@@ -119,11 +119,10 @@ contact-management-app/
 
 ## API Endpoints
 
-- **GET** `/api/contacts`: Retrieve all contacts.
-- **POST** `/api/contacts`: Create a new contact.
-- **PUT** `/api/contacts/:id`: Update an existing contact.
-- **DELETE** `/api/contacts/:id`: Delete a contact.
-- **GET** `/api/contacts/search?name=<query>`: Search for contacts by name.
+- **GET** `/contacts`: Retrieve all contacts.
+- **POST** `/contacts`: Create a new contact.
+- **PUT** `/contacts/:id`: Update an existing contact.
+- **DELETE** `/contacts/:id`: Delete a contact.
 
 ---
 
