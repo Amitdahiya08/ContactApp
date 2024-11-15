@@ -61,7 +61,7 @@ To run the Contact Management Application locally, follow these steps:
 5. Start the backend server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    The backend server should now be running on `http://localhost:8080`.
@@ -83,7 +83,7 @@ To run the Contact Management Application locally, follow these steps:
 3. Start the frontend development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    The frontend application should now be running on `http://localhost:5173`.
