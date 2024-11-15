@@ -90,32 +90,6 @@ To run the Contact Management Application locally, follow these steps:
 
 ---
 
-## Folder Structure
-
-```
-contact-management-app/
-├── backend/                  # Backend server
-│   ├── controllers/          # API controllers
-│   ├── models/               # Mongoose models
-│   ├── routes/               # API routes
-│   ├── server.js             # Express server setup
-│   └── ...
-├── frontend/                 # React frontend
-│   ├── public/               # Public assets
-│   ├── src/
-│   │   ├── components/       # React components
-│   │   ├── services/         # API calls
-│   │   ├── App.js            # Main application
-│   │   ├── index.js          # Entry point
-│   │   └── ...
-│   ├── package.json
-│   └── ...
-├── .gitignore
-├── README.md
-└── ...
-```
-
----
 
 ## API Endpoints
 
