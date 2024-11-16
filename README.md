@@ -1,5 +1,6 @@
 # Contact Management Application 
 ## [ -> Live Link Here  ](https://contact-app-xpkw.vercel.app/)
+(Note : The render server is slow , so it may take some time to load the data on the first click ) 
 <img src="./frontend/src/images/Screenshot (60).png" alt="Contact List View">
 
 This Contact Management Application is built using **React**, **Material-UI**, and a backend hosted on **Render**. The frontend is deployed on **Vercel**, offering seamless contact management functionalities. Users can add, view, edit, delete, search, and sort contact information with a user-friendly interface.
